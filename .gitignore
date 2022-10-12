@@ -9,9 +9,3 @@ node_modules
 
 # Ignore built files
 build
-
-# Environment varibles
-*.env
-
-# Orm Config files
-ormconfig.json
